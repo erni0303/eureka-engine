@@ -1,2 +1,2 @@
 TLP_ENABLE=1
-TCP=8080
+tcp=8080
